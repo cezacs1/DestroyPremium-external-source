@@ -1,0 +1,12 @@
+C:\Users\csacc\Desktop\destroy source\DestroyPremium\DestroyPremium\obj\Debug\DestroyPremium.csproj.AssemblyReference.cache
+C:\Users\csacc\Desktop\destroy source\DestroyPremium\DestroyPremium\obj\Debug\DestroyPremium.csproj.SuggestedBindingRedirects.cache
+C:\Users\csacc\Desktop\destroy source\DestroyPremium\DestroyPremium\obj\Debug\DestroyPremium.Properties.newres.resources
+C:\Users\csacc\Desktop\destroy source\DestroyPremium\DestroyPremium\obj\Debug\DestroyPremium.csproj.GenerateResource.cache
+C:\Users\csacc\Desktop\destroy source\DestroyPremium\DestroyPremium\obj\Debug\DestroyPremium.csproj.CoreCompileInputs.cache
+C:\Users\csacc\Desktop\destroy source\DestroyPremium\DestroyPremium\bin\Debug\DestroyPremium.exe.config
+C:\Users\csacc\Desktop\destroy source\DestroyPremium\DestroyPremium\bin\Debug\DestroyPremium.exe
+C:\Users\csacc\Desktop\destroy source\DestroyPremium\DestroyPremium\bin\Debug\DestroyPremium.pdb
+C:\Users\csacc\Desktop\destroy source\DestroyPremium\DestroyPremium\obj\Debug\DestroyPremium.exe
+C:\Users\csacc\Desktop\destroy source\DestroyPremium\DestroyPremium\obj\Debug\DestroyPremium.pdb
+C:\Users\csacc\Desktop\destroy source\DestroyPremium\DestroyPremium\obj\Debug\DestroyPremium.Forms.Main.resources
+C:\Users\csacc\Desktop\destroy source\DestroyPremium\DestroyPremium\obj\Debug\DestroyPremium.Forms.Login.resources
